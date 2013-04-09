@@ -5,7 +5,6 @@ Ext.Loader.setPath({
 
 Ext.application({
     name: 'BanchaTouch',
-    
     /*views:['Main'],*/
     controllers: ['Main'],
     
