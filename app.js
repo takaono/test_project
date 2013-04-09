@@ -6,6 +6,7 @@ Ext.Loader.setPath({
 Ext.application({
     name: 'BanchaTouch',
     
+    /*views:['Main'],*/
     controllers: ['Main'],
     
     icon: 'resources/images/iTunesArtwork.png',
